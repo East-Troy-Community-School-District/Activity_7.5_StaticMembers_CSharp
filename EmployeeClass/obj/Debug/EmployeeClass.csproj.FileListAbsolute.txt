@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\EmployeeClass\bin\Debug\EmployeeClass.exe.config
+C:\Users\Nolan Pawelski\Desktop\EmployeeClass\bin\Debug\EmployeeClass.exe
+C:\Users\Nolan Pawelski\Desktop\EmployeeClass\bin\Debug\EmployeeClass.pdb
+C:\Users\Nolan Pawelski\Desktop\EmployeeClass\obj\Debug\EmployeeClass.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\EmployeeClass\obj\Debug\EmployeeClass.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\EmployeeClass\obj\Debug\EmployeeClass.exe
+C:\Users\Nolan Pawelski\Desktop\EmployeeClass\obj\Debug\EmployeeClass.pdb
